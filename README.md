@@ -38,3 +38,8 @@ Our college conducted a 10 hours Django workshop , So what we can learn that wor
 ## Register App
 - setting.py : we can use to register app into the setting.py file
 ![alt text](image-6.png)
+
+# Templates in Django
+- Templates its nothing but frontend disign part
+- Includes HTML,CSS,Bootstrap
+- Create index.html file into the templates/myApp
