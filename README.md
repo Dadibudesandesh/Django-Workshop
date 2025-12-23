@@ -51,3 +51,6 @@ Our college conducted a 10 hours Django workshop , So what we can learn that wor
 - Application level urls.py
 - And Project level urls.py
 - This all the have main file included to route pages
+
+# Database Integration
+- Models.py we can write code to make entities or class
