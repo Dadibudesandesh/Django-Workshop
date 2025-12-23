@@ -45,3 +45,9 @@ Our college conducted a 10 hours Django workshop , So what we can learn that wor
 - Create index.html file into the templates/myApp
 ![alt text](image-7.png)
 ![alt text](image-8.png)
+
+# Routing Page
+- Use View.py 
+- Application level urls.py
+- And Project level urls.py
+- This all the have main file included to route pages
