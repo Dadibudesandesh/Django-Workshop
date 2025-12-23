@@ -30,3 +30,7 @@ Our college conducted a 10 hours Django workshop , So what we can learn that wor
 - python manage.py startapp myApp : Create project name myApp
 ![alt text](image-4.png)
 
+## Run Application
+- python manage.py runserver : Run the app
+![alt text](image-5.png)
+- python manage.py runserver 1008 : Change port
