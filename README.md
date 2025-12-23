@@ -34,3 +34,7 @@ Our college conducted a 10 hours Django workshop , So what we can learn that wor
 - python manage.py runserver : Run the app
 ![alt text](image-5.png)
 - python manage.py runserver 1008 : Change port
+
+## Register App
+- setting.py : we can use to register app into the setting.py file
+![alt text](image-6.png)
