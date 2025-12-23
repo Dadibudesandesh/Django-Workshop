@@ -43,3 +43,5 @@ Our college conducted a 10 hours Django workshop , So what we can learn that wor
 - Templates its nothing but frontend disign part
 - Includes HTML,CSS,Bootstrap
 - Create index.html file into the templates/myApp
+![alt text](image-7.png)
+![alt text](image-8.png)
