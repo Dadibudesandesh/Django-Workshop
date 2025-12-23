@@ -19,6 +19,14 @@ Our college conducted a 10 hours Django workshop , So what we can learn that wor
 ![alt text](image.png)
 - python -m pip show django
 ![alt text](image-2.png)
+- django-admin startproject hello_world (command to create django application/project)
+![alt text](image-3.png)
 
+## Folder Structure
+- manage.py : heart of the django or application | Handle tasks
+- wsgi.py (Web Server gatway Interface): All configuration
 
+## Create App/Project
+- python manage.py startapp myApp : Create project name myApp
+![alt text](image-4.png)
 
